@@ -128,12 +128,3 @@ let valueA = '';
 console.log(valueA || 'Usando ||'); // Usando ||
 console.log(valueA ?? 'Usando ??'); // Nada será exibido pois é uma string vazia
 ```
-
-* <!--StartFragment-->
-
-  Use o operador Nullish (??) quando você quiser executar uma ação em que o valor à esquerda for igual a null ou undefined.
-
-  <!--EndFragment-->
-* <!--StartFragment--> Use o operador OR (||) quando você quiser executar uma ação em que o valor for igual a true.
-
-  <!--EndFragment-->
