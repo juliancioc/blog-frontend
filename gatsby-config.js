@@ -15,6 +15,7 @@ module.exports = {
       options: {
         trackingIds: [
           "G-5R0R3GFLHX",
+          "GTM-PRF6WK9"
         ],
         head: true,
       },
