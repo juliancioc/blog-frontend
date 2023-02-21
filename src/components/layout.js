@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.juliancio.dev">Juliâncio Carvalho</a>
+        <a href="https://www.juliancio.com.br">Juliancio Carvalho</a>
       </footer>
     </div>
   )

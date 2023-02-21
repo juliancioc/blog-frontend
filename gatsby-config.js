@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Centro Dev`,
+    title: `Juliancio Carvalho`,
     author: {
-      name: `Juliâncio Carvalho`,
-      summary: `apaixonado por programação, que tem como hobby desenvolver aplicações para facilitar a forma que vivemos.`,
+      name: `Juliancio Carvalho`,
+      summary: `trabalho há mais de 4 anos como Desenvolvedor Front-end e tenho o objetivo de ajudar novos desenvolvedor através do compartilhamento de conhecimento.`,
     },
     description: `Aqui vamos falar sobre programação.`,
-    siteUrl: `https://juliancio.dev`,
+    siteUrl: `https://juliancio.com.br`,
     social: {},
   },
   plugins: [
