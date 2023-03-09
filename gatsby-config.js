@@ -3,7 +3,9 @@ module.exports = {
     title: `Juliancio Carvalho`,
     author: {
       name: `Juliancio Carvalho`,
-      summary: `trabalho há mais de 4 anos como Desenvolvedor Front-end e tenho o objetivo de ajudar novos desenvolvedor através do compartilhamento de conhecimento.`,
+      summary: `
+      I work as Front-end Developer for four years and I have experience with a lot of awesome projects using React, Redux, Angular, Vue.js, JavaScript, TypeScript, Jest, Testing Library, Node and some Agile Methodologies as Kanban and Scrum. 
+      `,
     },
     description: `Aqui vamos falar sobre programação.`,
     siteUrl: `https://juliancio.com.br`,
@@ -13,10 +15,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingIds: [
-          "G-5R0R3GFLHX",
-          "GTM-PRF6WK9"
-        ],
+        trackingIds: ["G-5R0R3GFLHX", "GTM-PRF6WK9"],
         head: true,
       },
     },
@@ -133,7 +132,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-netlify-cms`
+    `gatsby-plugin-netlify-cms`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
